@@ -1,0 +1,3 @@
+function funkcija(){
+    alert("AAAAA");
+}

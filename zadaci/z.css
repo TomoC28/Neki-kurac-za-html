@@ -1,0 +1,11 @@
+p{
+    color:blue;
+}
+body{
+    background-color:beige;
+}
+table{
+    border: 3px;
+    border-color: black;
+    text-align: center;
+}
